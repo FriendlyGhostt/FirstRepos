@@ -2,12 +2,13 @@
 Console.WriteLine("2 Строка - мейн, неконфликт");
 Console.WriteLine("3 Строка - мейн, неконфликт");
 
-Console.WriteLine("5 строка мейн, конфликт");
-Console.WriteLine("6 строка мейн - конфликт");
+Console.WriteLine("5 CONFLICT");
+Console.WriteLine("6 CONFLICT");
 Console.WriteLine("7 строка мейн - не конфликт");
 
 
-
+Console.WriteLine("10 VETKA");
+Console.WriteLine("11 VETKA");
 
 
 
