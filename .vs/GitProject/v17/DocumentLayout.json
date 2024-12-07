@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\FirstRepos\\GitProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{174D9800-A9F9-4F93-BB58-847A8B1DBF9B}|GitProject.csproj|c:\\firstrepos\\gitproject\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174D9800-A9F9-4F93-BB58-847A8B1DBF9B}|GitProject.csproj|solutionrelative:class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{174D9800-A9F9-4F93-BB58-847A8B1DBF9B}|GitProject.csproj|c:\\firstrepos\\gitproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{174D9800-A9F9-4F93-BB58-847A8B1DBF9B}|GitProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\FirstRepos\\GitProject\\Class2.cs",
+              "RelativeDocumentMoniker": "Class2.cs",
+              "ToolTip": "C:\\FirstRepos\\GitProject\\Class2.cs",
+              "RelativeToolTip": "Class2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T16:57:24.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\FirstRepos\\GitProject\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
