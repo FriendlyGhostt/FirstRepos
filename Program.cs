@@ -1,7 +1,3 @@
-﻿
-Console.WriteLine("SecondString");
-Console.WriteLine("Hello, World, IAM MASTER");
+﻿Console.WriteLine("FirstString");
+Console.WriteLine("FirstString");
 
-
-
-Console.WriteLine("SevenString");
